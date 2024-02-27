@@ -12,7 +12,7 @@
 
   🛠️ PC Building
 
-- Get in Touch
+- Get in Touch:
   📫 Feel free to reach out to me via email at syoung492763@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/stefan-young-a021292b6).
 
 <!---
